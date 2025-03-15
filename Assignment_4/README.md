@@ -9,3 +9,7 @@ Usage
 Kaplan-Meier Analysis: Plot survival curves based on tumor stage and treatment modality.
 Cox Proportional Hazards Model: Fit the model and check for proportional hazards assumptions.
 Random Survival Forests (RSF): Train the model, analyze feature importance, and calculate the C-index.
+
+Installation
+pip install numpy pandas matplotlib seaborn scikit-learn lifelines scikit-survival
+
